@@ -6,26 +6,26 @@ const fs = require('fs')
 const chalk = require('chalk')
 
 //contact details
-global.ownernomer = "256709824720"
+global.ownernomer = "221710080086"
 global.ownername = "The Developer03"
 global.ytname = "YT: The_developer03"
 global.socialm = "GitHub: Byte-smith03"
 global.location = "Uganda, Kampala"
 
-global.ownernumber = '256709824720'  //creator number
+global.ownernumber = '221710080086'  //creator number
 global.ownername = 'The Developer03' //owner name
 global.botname = 'RAIDEN BUG' //name of the bot
 
 //sticker details
 global.packname = 'Sticker By'
-global.author = 'raiden\n\nContact: +256709824720'
+global.author = 'Israel\n\nContact: +221710080086'
 
 //console view/theme
 global.themeemoji = '🪀'
 global.wm = "Raiden Bot"
 
 //theme link
-global.link = 'https://whatsapp.com/channel/0029Va7qmJ4LNSa4HAXqg10u'
+global.link = 'https://discord.gg/Hh36RHYC3w'
 
 //custom prefix
 global.prefa = ['','!','.','#','&']
@@ -36,7 +36,7 @@ global.autoTyping = true //auto typing
 global.autorecordtype = true //auto typing + recording
 global.autoread = false //auto read messages
 global.autobio = false //auto update bio
-global.anti91 = false //auto block +91 
+global.anti91 = true //auto block +91 
 global.autoswview = false //auto view status/story
 
 //menu type 
@@ -55,7 +55,7 @@ global.bimg = '//9j/4AAQSkZJRgABAQAAAQABAAD/4gIoSUNDX1BST0ZJTEUAAQEAAAIYAAAAAAQw
 //reply messages
 global.mess = {
     done: 'Done !',
-    prem: 'This feature can be used by premium user only',
+    prem: 'This feature can be used by premium user only like Israel',
     admin: 'This feature can be used by admin only',
     botAdmin: 'This feature can only be used when the bot is a group admin ',
     owner: 'This feature can be used by owner only',
